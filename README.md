@@ -1,5 +1,5 @@
-# Buckhouse
-[Johnathan Buckhouse](https://www.youtube.com/c/JohnathanBuckhouse) is trying to snowboard at every North America Ski Resort. This repository will track his progress as he accomplishes this goal.
+# Hunter
+Hunter is trying tovisit different ski hills in the GLR with the Red Bull Truck. This repository will track his progress as he accomplishes this goal.
 
 ## Installation
 
